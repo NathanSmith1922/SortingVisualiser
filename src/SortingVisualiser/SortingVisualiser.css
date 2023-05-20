@@ -1,0 +1,14 @@
+body {
+    background-color: #171717;
+}
+.array-container {
+    background-color: #171717;
+    position: absolute;
+    left: 100px;
+}
+.array-bar {
+    width: 2px;
+    background-color: #5D3FD3;
+    display: inline-block;
+    margin: 0 1px;
+}
